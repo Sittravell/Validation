@@ -1,3 +1,4 @@
+/* REPLACE: With your application id and valid path */
 package com.example.templates.utils.inputUtils
 
 import com.example.templates.utils.GenericCB
